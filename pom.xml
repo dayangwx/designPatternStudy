@@ -11,6 +11,7 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>pattern-01-proxy</module>
+    <module>pattern-02-composite</module>
   </modules>
 
   <properties>
