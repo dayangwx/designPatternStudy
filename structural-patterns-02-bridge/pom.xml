@@ -7,10 +7,10 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>stuctural-patterns-01-adaptor</artifactId>
+    <artifactId>structural-patterns-02-bridge</artifactId>
     <packaging>jar</packaging>
 
-    <name>stuctural-patterns-01-adaptor</name>
+    <name>stuctural-patterns-02-bridge</name>
     <url>http://maven.apache.org</url>
 
     <properties>

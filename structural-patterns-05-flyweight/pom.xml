@@ -7,10 +7,10 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>stuctural-patterns-02-bridge</artifactId>
+    <artifactId>structural-patterns-05-flyweight</artifactId>
     <packaging>jar</packaging>
 
-    <name>stuctural-patterns-02-bridge</name>
+    <name>structural-patterns-05-flyweight</name>
     <url>http://maven.apache.org</url>
 
     <properties>
